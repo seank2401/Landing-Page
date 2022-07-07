@@ -61,3 +61,18 @@ h1{
    gap: 20px;
 }
 
+.title{
+   color: white;
+}
+
+.titlesubtext{
+   color:lightgray;
+}
+
+.signuph{
+   color: white;
+   background-color: #703030;
+   padding: 4px 12px;
+   border-radius: 8px;
+   border-style: none;
+}
