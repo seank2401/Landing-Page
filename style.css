@@ -109,3 +109,27 @@ h1{
     border-radius: 8px;
     margin-bottom: 12px;
  }
+
+
+ /* BODY 3 */
+ 
+ .body3{
+    background-color: #e8e7e6;
+    padding: 129px 0px 128px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: center;
+    
+}
+
+ .quote{
+    font-size: 30px;
+    width: 800px;
+    
+ }
+
+ .author{
+    width:800px;
+    text-align: end;
+ }
