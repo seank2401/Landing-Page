@@ -133,3 +133,52 @@ h1{
     width:800px;
     text-align: end;
  }
+
+ /* BODY 4 */
+
+ .body4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 32px;
+ }
+
+ .body4content{
+    width: 1200px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3d5e94;
+    border-radius: 10px;
+ }
+
+ .body4title{
+    font-weight: bold;
+    font-size: 32px;
+    margin-bottom: 12px;
+ }
+
+ .body4subtext, 
+ .body4title{
+    color: white;
+ }
+
+ .signupb4{
+    color: white;
+    background-color: #703030;
+    padding: 4px 12px;
+    border-radius: 8px;
+    border-style: none;
+ }
+
+ /* FOOTER */
+
+ .footer{
+    background-color: lightgray;
+ }
+
+ .footertext{
+    text-align: center;
+    padding: 16px;
+ }
